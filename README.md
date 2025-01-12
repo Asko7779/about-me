@@ -1,5 +1,5 @@
 **About Me**
-- *Hey, I'm Asko7779, also known as simply Asko. I am a software engineer and a cybersecurity professional specializing in both the defensive and offensive field.*
+- *Hey, I'm Asko7779, also known as simply Asko. I am a software developer and a cybersecurity professional specializing in both the defensive and offensive field.*
 
 **My Projects**
 - *My projects include various types of softwares, here are some examples:*
