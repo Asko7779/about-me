@@ -13,7 +13,4 @@
 - **7. System Programming** - *Apart from cybersecurity, my other focus is system programming, such as: Operating systems, embedded systems, security mechanisms, applications and so on.*
 
 **I am proficient in multiple programming languages, which include:**
-*Java, Python, C/C++, C#, Rust, Assembly, JavaScript, Ruby, PHP, Lua and I'm still learning more to expand my knowledge*
-
-
-I am constantly learning new things everyday and actively expanding my knowledge to inspire and share it with other fellow programmers and beginners, whether you are a C++ veteran or a complete beginner.
+*Java, Python, C/C++, C#, Rust, Assembly, JavaScript, Ruby, PHP, Lua, Go and I'm still learning more to expand my knowledge* 
